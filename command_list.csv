@@ -1,0 +1,19 @@
+    1  cd /c/Users/tania/Documents/GOITGIT
+    2  pwd
+    3  cd /c/users/tania/Documents
+    4  cd /c/users/tania/Documents/GOITGIT
+    5  cd /c/users/tania/Documents/GOITGIT
+    6  cd /c/users/tania/Documents/GIT
+    7   -c && rm ~/.bash_history
+    8  cd /c/users/tania/Documents
+    9  cd /c/users/tania/Documents/git_goit
+   10  git clone https://github.com/Teti0093/HW_10?tab=readme-ov-file#hw_10
+   11  cd HW_10
+   12  ls -l
+   13  cd c/users/tania/HW_10
+   14  cd c/users/tania
+   15  cd c/users/tania/documents/git_goit/HW_10
+   16  cd c/users/tania/documents/git_goit
+   17   cd c/users/tania/documents
+   18  cd /c/users/tania/documents/git_goit/HW_10
+   19   history > command_list.csv
