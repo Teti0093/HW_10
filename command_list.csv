@@ -2,3 +2,5 @@
 2 git add .
 3 git commit -m "коментар"
 4 git status
+5 git clone https://github.com/Teti0093/HW_10
+
