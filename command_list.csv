@@ -16,4 +16,8 @@
    16  cd c/users/tania/documents/git_goit
    17   cd c/users/tania/documents
    18  cd /c/users/tania/documents/git_goit/HW_10
-   19   history > command_list.csv
+   19   history > command_list.csv 
+   20, git status
+   21  git add .
+   22 git commit -m "коментар"
+
