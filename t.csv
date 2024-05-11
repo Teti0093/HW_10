@@ -1,0 +1,35 @@
+[33mcommit 9be3e73743d08fbd09ef8b3bf8d16fd2de9230a1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Teti0093 <taniakobilinska@gmail.com>
+Date:   Sat May 11 10:03:55 2024 +0200
+
+    Додано порожній файл develop_test.txt
+
+[33mcommit 11539d6776e02917d880967defc727e889c0850d[m
+Author: Teti0093 <taniakobilinska@gmail.com>
+Date:   Sat May 11 09:49:55 2024 +0200
+
+    Додано файл main_test.txt
+
+[33mcommit 0c52d1206773ebde5503f71ad0b68fdb3e581ef8[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Teti0093 <taniakobilinska@gmail.com>
+Date:   Fri May 10 19:02:55 2024 +0200
+
+    Фіксуємо зміни
+
+[33mcommit 736b83c285debc3292de3113fbad7f915a8b1832[m
+Author: Teti0093 <taniakobilinska@gmail.com>
+Date:   Thu May 2 13:54:56 2024 +0200
+
+    changed gitignore
+
+[33mcommit 62dfb41ac082eeebb2eed352c58f1a484d1f7be8[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: Teti0093 <taniakobilinska@gmail.com>
+Date:   Thu May 2 11:24:46 2024 +0200
+
+    added new file
+
+[33mcommit b27ea8f34130783d8a2a0d3bebed7bd3b2b8f44c[m
+Author: Teti0093 <157350903+Teti0093@users.noreply.github.com>
+Date:   Thu May 2 10:14:29 2024 +0200
+
+    Initial commit
